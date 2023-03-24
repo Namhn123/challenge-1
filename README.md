@@ -6,6 +6,7 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
 ## Acceptance Criteria
+```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -17,3 +18,10 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+```
+
+## Description
+The goal of this challenge was to debug and give the HTML file more of a cohesive structure of a provided folder. The CSS file had many repeated rules for individual elements that can be condensed into one rule that applies to multiple instances.
+
+## Usage
+You can access the webpage via link: https://namhn123.github.io/challenge-1/
